@@ -1,0 +1,75 @@
+#textmain
+{
+	text-align: center;
+	padding: 75px;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	
+
+
+}
+
+#textbox
+{
+	margin: auto;
+	height:50px;
+	width: 100%;
+	
+}
+
+#searchquery
+{
+	border-radius: 25px;
+	width: 500px;
+	height: 40px;
+
+}
+
+#googlelogo
+{
+	text-align: center;
+	margin-top: 100px;
+}
+
+#googlelogo1
+{
+	height: 104px;
+	width: 250px;
+}
+
+#searchbuttons
+{
+	padding: 30px;
+}
+
+#search, #lucky
+{
+	padding: 10px;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+#upperbar
+{
+	padding:10px;
+	margin-right: 15px;
+
+}
+
+.right
+{
+	position: absolute;
+	right: 0px;
+	
+
+}
+div.text1
+{
+	font-color: red;
+	font-size: 16px;
+}
