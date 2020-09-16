@@ -1,0 +1,57 @@
+#bodymain1
+{
+	padding: 20px;
+	
+}
+
+#googlelogo1
+{
+	height: 40px;
+	width: 96px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+select{
+	width: 80%;
+}
+
+input[type=text]{
+	width: 80%;
+
+}
+
+#textmain1
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	
+}
+
+#upperbar
+{
+	padding:10px;
+	margin-right: 25px;
+
+}
+
+.right
+{
+	position: absolute;
+	right: 0px;
+	
+
+}s
+
+
